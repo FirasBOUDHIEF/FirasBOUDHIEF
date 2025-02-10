@@ -42,7 +42,8 @@ I'm **Firas BOUDHIEF**, a **Software Engineer** currently in my second year of e
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+✨ "The people who are crazy enough to think they can change the world are the ones who do." - Steve Jobs
+
 
 ---
 
