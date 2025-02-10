@@ -5,9 +5,9 @@
 
 
 **About me**  
-- I'm **Firas BOUDHIEF**, a **Software Engineer** currently in my second year of engineering studies at **ESPRIT Monastir**, specializing in **Web Development**. I'm also a **Trainer for Students** on **best practices**, **clean code**, and **debugging techniques** to help them succeed in their **PFE projects** .</br></br>
-<center>Im working on <strong>creating valuable content and will soon release guides </strong></center>
-for developers and students..
+- I'm **Firas BOUDHIEF**, a **Software Engineer** currently in my second year of engineering studies at **ESPRIT Monastir**, specializing in **Web Development**. I'm also a **Trainer for Students** on **best practices**, **clean code**, and **debugging techniques** to help them succeed in their **PFE projects** .</br>
+<center>Im working on <strong>creating valuable content and will soon release guides </strong>
+for developers and students..</center>
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 [![Mail Badge](https://img.shields.io/badge/-Firas%20BOUDHIEF-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@firasboudhief)  
 [![Linkedin Badge](https://img.shields.io/badge/-Firas%20BOUDHIEF-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-boudhief-34a955248/)  
