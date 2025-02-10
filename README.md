@@ -4,7 +4,7 @@
 </p>
 
 **About me**  
-I'm **Firas BOUDHIEF**, a **Software Engineer** currently in my second year of engineering studies at **ESPRIT Monastir**, specializing in **Web Development**. I'm also a content creator on [YouTube](https://www.youtube.com/@firasboudhief).
+I'm **Firas BOUDHIEF**, a **Software Engineer** currently in my second year of engineering studies at **ESPRIT Monastir**, specializing in **Web Development**. I'm also a content creator on [YouTube](https://www.youtube.com/@firasboudhief) and a **Trainer for Students** on **best practices**, **clean code**, and **debugging techniques** to help them succeed in their **PFE projects**.
 
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 [![Mail Badge](https://img.shields.io/badge/-Firas%20BOUDHIEF-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@firasboudhief)  
@@ -18,11 +18,11 @@ I'm **Firas BOUDHIEF**, a **Software Engineer** currently in my second year of e
 
 ## **Skills**
 <br>
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,express,spring,java,laravel,mysql,mongodb,postman,git,github,docker,kubernetes" />
+</p>
+
+- 🧑‍🏫 I am also a **trainer for students** at **ESPRIT Monastir**, teaching them **best practices** and how to **write clean code** for **debugging** and **fixing bugs** in their **PFE projects**.
 
 ---
 
