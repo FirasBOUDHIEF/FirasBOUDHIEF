@@ -24,7 +24,7 @@ I'm **Firas BOUDHIEF**, a **Software Engineer** currently in my second year of e
 
 - 🧑‍🏫 I am also a **trainer for students** at **ESPRIT Monastir**, teaching them **best practices** and how to **write clean code** for **debugging** and **fixing bugs** in their **PFE projects**.
 
----
+----
 
 ## **GitHub Stats**
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FirasBOUDHIEF&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)  
